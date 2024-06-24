@@ -36,7 +36,7 @@ Top Customers and Products: Identifies top-performing customers and products bas
 ### Usage
 To view and interact with the Business Insight 360 report:
 
-[Live_Dashboard]([https://github.com/Sravan-8/Excel-Sales-Analytics-/blob/main/P%26L%20Statement%20by%20Markets.pdf](https://app.powerbi.com/view?r=eyJrIjoiMTBkNjQ2NjAtMmY2OC00NTIwLTk3ZmYtYzM3NGUxMTYxNjhmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
+[Live_Dashboard][https://app.powerbi.com/view?r=eyJrIjoiMTBkNjQ2NjAtMmY2OC00NTIwLTk3ZmYtYzM3NGUxMTYxNjhmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9]
 
 Contact
 For any questions or inquiries, please contact Sravan Kumar Reddy Ramidi.
