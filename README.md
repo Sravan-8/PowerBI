@@ -36,7 +36,7 @@ Top Customers and Products: Identifies top-performing customers and products bas
 ### Usage
 To view and interact with the Business Insight 360 report:
 
-[Live_Dashboard][https://app.powerbi.com/view?r=eyJrIjoiMTBkNjQ2NjAtMmY2OC00NTIwLTk3ZmYtYzM3NGUxMTYxNjhmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9]
+[Live_Dashboard]([<iframe title="Business Insight 360" width="1024" height="1060" src="https://app.powerbi.com/view?r=eyJrIjoiMTBkNjQ2NjAtMmY2OC00NTIwLTk3ZmYtYzM3NGUxMTYxNjhmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" frameborder="0" allowFullScreen="true"></iframe>]).
 
 Contact
 For any questions or inquiries, please contact Sravan Kumar Reddy Ramidi.
